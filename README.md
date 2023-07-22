@@ -1,6 +1,6 @@
 # Fake News Prediction
 
-![Project Logo](link_to_logo_image_if_available.png)
+ <img src="https://www.shutterstock.com/image-vector/circle-rubber-stamp-text-fake-news-1243934425" alt="Fake News Logo">
 
 ## Table of Contents
 - [Introduction](#introduction)
